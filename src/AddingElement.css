@@ -1,0 +1,20 @@
+.line {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .number {
+    font-size: 40px;
+    margin-right: 10px;
+  }
+  
+  .symbol {
+    font-size: 40px;
+    margin-right: 10px;
+  }
+
+  .result {
+    font-size: 40px;
+    margin-right: 10px;
+    font-weight: bold;
+  }

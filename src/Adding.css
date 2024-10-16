@@ -1,0 +1,7 @@
+.line {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 2em 2em 2em 2em;
+    justify-content: space-between;
+  }
